@@ -1,6 +1,6 @@
 https://github.com/spring-projects/spring-boot
 https://github.com/apache/dubbo
-https://github.com/elastic/elasticsearch
+https://github.com/PaperMC/Velocity
 https://github.com/mybatis/mybatis-3
 https://github.com/zxing/zxing
 https://github.com/PhilJay/MPAndroidChart
@@ -19,7 +19,6 @@ https://github.com/android-async-http/android-async-http
 https://github.com/redisson/redisson
 https://github.com/apache/storm
 https://github.com/apache/tomcat
-https://github.com/apache/hive
 https://github.com/apereo/cas
 https://github.com/redis/jedis
 https://github.com/dropwizard/dropwizard
@@ -38,3 +37,4 @@ https://github.com/apache/nifi
 https://github.com/apache/shiro
 https://github.com/dbeaver/dbeaver
 https://github.com/swagger-api/swagger-core
+https://github.com/jhy/jsoup
